@@ -1,0 +1,21 @@
+##################################################
+### Author: Anthony Igel                       ###
+### Team: Category Management Transformation   ###
+### Project: Developing practical Python Tools ###
+### Purpose: Initialize Python skills          ###
+### Date: 05/21/2018                           ###
+##################################################
+
+### This aims to serve as a stepping stone for more sophisticated Python exercises
+### Examples come from "Automate The Boring Stuff With Python", by Al Sweigart
+#################################################################################################################################
+
+######## Integer, Floating-Point, and String data types ########
+# Strings should always be surrounded by a single quote (')
+# Errors that read 'SyntaxError: EOL while scanning string' indicates that a single quote is missing
+'Hello World!'
+
+######## String Concatentations and Replications ########
+# Python works very similarly to r and SQL
+'This' + ' ' + 'is' + ' ' + 'a' + ' ' + 'sentence.'
+
